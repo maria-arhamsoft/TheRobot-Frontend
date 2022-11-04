@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="105" viewBox="0 0 106 105">
+  <g id="target-svgrepo-com_1_" data-name="target-svgrepo-com (1)" transform="translate(0 -0.5)">
+    <ellipse id="Ellipse_92" data-name="Ellipse 92" cx="53" cy="52.5" rx="53" ry="52.5" transform="translate(0 0.5)" fill="#2ecbd0"/>
+    <g id="Group_605" data-name="Group 605" transform="translate(16.896 16.896)">
+      <g id="Group_602" data-name="Group 602">
+        <circle id="Ellipse_93" data-name="Ellipse 93" cx="35.854" cy="35.854" r="35.854" fill="#ff8e6e"/>
+        <circle id="Ellipse_94" data-name="Ellipse 94" cx="27.418" cy="27.418" r="27.418" transform="translate(8.079 8.436)" fill="#f7e4d6"/>
+        <circle id="Ellipse_95" data-name="Ellipse 95" cx="19.825" cy="19.825" r="19.825" transform="translate(15.672 16.029)" fill="#ff8e6e"/>
+        <circle id="Ellipse_96" data-name="Ellipse 96" cx="12.232" cy="12.232" r="12.232" transform="translate(23.621 23.621)" fill="#f7e4d6"/>
+        <circle id="Ellipse_97" data-name="Ellipse 97" cx="6.769" cy="6.769" r="6.769" transform="translate(28.864 29.084)" fill="#5c5d61"/>
+      </g>
+      <g id="Group_604" data-name="Group 604" transform="translate(35.769 1.899)">
+        <g id="Group_603" data-name="Group 603">
+          <path id="Path_320" data-name="Path 320" d="M63.9,61.488,76.217,55.93l-6.761-6.761Z" transform="translate(-63.898 -27.438)" fill="#ffcc8f"/>
+          <path id="Path_321" data-name="Path 321" d="M92.147,33.549l7.605.121,3.139-3.139-5.463-2.264L95.165,22.8l-3.139,3.139Z" transform="translate(-68.842 -22.804)" fill="#ffcc8f"/>
+          <rect id="Rectangle_270" data-name="Rectangle 270" width="2.731" height="24.586" transform="translate(24.391 7.727) rotate(45)" fill="#ffcc8f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
